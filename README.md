@@ -27,6 +27,8 @@ See https://openjdk.java.net/projects/graal/
 
 # thanks
 
+
+* https://github.com/chrisseaton/graalvm-ten-things
 * https://github.com/graalvm/graalvm-demos
 * https://github.com/quarkusio/quarkus-quickstarts
 * https://www.graalvm.org/docs/getting-started/
